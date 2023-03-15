@@ -1,4 +1,5 @@
 class PW
 {     
-    {   people.main}
+    {   method m1
+        { ///code}
 }
